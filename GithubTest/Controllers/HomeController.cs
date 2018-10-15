@@ -10,7 +10,7 @@ namespace GithubTest.Controllers
     {  
         public ActionResult Index()
         {   
-            return View();
+            return View(); //Index added via portal
         }
 
         public ActionResult About()
